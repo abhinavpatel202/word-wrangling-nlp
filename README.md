@@ -75,3 +75,7 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
    ```bash
    pip install -r requirements.txt
    python -m textblob.download_corpora
+   4. Run the main script:
+   ```bash
+   python DataWrangling.py
+
