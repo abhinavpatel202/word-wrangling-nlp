@@ -75,6 +75,27 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
 cd word-wrangling-nlp
 '''
+pip install pandas nltk textblob scikit-learn matplotlib seaborn
+python -m textblob.download_corpora
+
+
+pip install -r requirements.txt
+
+python DataWrangling.py
+
+
+
+---
+
+### ✅ Final Tip:
+After pasting this version into `README.md`, save the file and push your changes:
+
+```bash
+git add README.md
+git commit -m "Formatted README with clean markdown"
+git push
+
+
 
 
 
