@@ -31,9 +31,9 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 ## 🧪 Project Modules
 
 ### Module 1: Data Loading & Exploration
-- Loads `yelp_academic_dataset_review.json`
-- Filters for longer reviews
-- Plots review word count distributions
+- Load `yelp_academic_dataset_review.json`
+- Filter for longer reviews
+- Plot review word count distributions
 
 ### Module 2: Text Preprocessing
 - Lowercasing, punctuation removal
@@ -71,31 +71,61 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 
 ### 1. Clone this repository
 
-<pre>
-  ```bash
-  git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
-  cd word-wrangling-nlp```</pre>
+```bash
+git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
+cd word-wrangling-nlp
+```
 
-2. Download the Yelp Open Dataset
-Visit the official Yelp dataset page:
+### 2. Download the Yelp Open Dataset
+
+Visit the official Yelp dataset page:  
 👉 https://www.yelp.com/dataset
 
-Download and extract the .tar file
+- Download and extract the `.tar` file  
+- Place `yelp_academic_dataset_review.json` into the project folder
 
-Place yelp_academic_dataset_review.json into the project folder
+### 3. Install required dependencies
 
-3. Install required dependencies
-If you don’t have a requirements.txt, install manually:
-<pre>
-  ```bash
-  pip install pandas nltk textblob scikit-learn matplotlib seaborn
+If you don’t have a `requirements.txt`, install manually:
+
+```bash
+pip install pandas nltk textblob scikit-learn matplotlib seaborn
 python -m textblob.download_corpora
-  ```
-</pre>
+```
 
+Or use the requirements file:
 
+```bash
+pip install -r requirements.txt
+```
 
+### 4. Run the main pipeline
 
+```bash
+python DataWrangling.py
+```
+
+---
+
+## 📌 Author
+
+**Abhinav Patel**  
+Data Analyst | NLP Enthusiast  
+📫 [https://www.linkedin.com/in/patel-abhinav-ms/](https://www.linkedin.com/in/patel-abhinav-ms/)
+
+---
+
+## 🧠 Bonus Ideas
+
+Want to extend this?
+
+- Add Named Entity Recognition (NER) with `spaCy`  
+- Use `LDA` or `BERTopic` for better topic modeling  
+- Build an interactive dashboard with `Streamlit`
+
+---
+
+⭐ If you liked this project, drop a ⭐ on the repo!
 
 
 
