@@ -125,10 +125,7 @@ Want to extend this?
 
 
 ⭐ If you liked this project, drop a ⭐ on the repo!
-
 yaml
-Copy code
-
 ---
 
 ### ✅ Why This Version Is Better
