@@ -123,3 +123,31 @@ Want to extend this?
 - Build an interactive dashboard with `Streamlit`
 
 
+
+⭐ If you liked this project, drop a ⭐ on the repo!
+
+yaml
+Copy code
+
+---
+
+### ✅ Why This Version Is Better
+
+- Clean markdown formatting that renders beautifully on GitHub
+- Bullet points and code blocks are fixed
+- Uses tables and `<details>` for collapsible options
+- Emoji + heading spacing is standardized
+
+---
+
+Let me know when you're ready to:
+- Add `.gitignore`  
+- Create `requirements.txt`  
+- Or push this updated `README.md` to GitHub!
+
+
+
+
+
+
+
