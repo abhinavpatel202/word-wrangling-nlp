@@ -1,4 +1,9 @@
 # 🧠 Word Wrangling & Text Analytics Tool
+![Python](https://img.shields.io/badge/python-3.12-blue?logo=python)
+![NLP](https://img.shields.io/badge/NLP-TFIDF%20%7C%20KMeans-lightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-Complete-brightgreen)
+
 
 A full-stack NLP pipeline built to preprocess, analyze, and extract insights from messy, user-generated reviews. This tool uses the **Yelp Open Dataset** to simulate real-world data challenges and demonstrates scalable techniques in text cleaning, keyword extraction, sentiment analysis, and clustering.
 
