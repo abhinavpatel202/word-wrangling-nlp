@@ -88,16 +88,16 @@ Install required dependencies
 
 If you don’t have a requirements.txt, install manually:
 
-bash
+
 pip install pandas nltk textblob scikit-learn matplotlib seaborn
 python -m textblob.download_corpora
 Or use the requirements file (if you added it):
 
-bash
+
 pip install -r requirements.txt
 Run the main pipeline
 
-bash
+
 python DataWrangling.py
 yaml
 ---
@@ -125,7 +125,7 @@ Want to extend this?
 
 
 ⭐ If you liked this project, drop a ⭐ on the repo!
-yaml
+
 ---
 
 ### ✅ Why This Version Is Better
