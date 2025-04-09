@@ -70,9 +70,11 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 ## 🚀 Getting Started
 
 ### 1. Clone this repository
+
 <pre>
-git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
-cd word-wrangling-nlp
+  ```bash
+  git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
+  cd word-wrangling-nlp
 </pre>
 
 2. Download the Yelp Open Dataset
