@@ -1,4 +1,6 @@
 # 🧠 Word Wrangling & Text Analytics Tool
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ![Python](https://img.shields.io/badge/python-3.12-blue?logo=python)
 ![NLP](https://img.shields.io/badge/NLP-TFIDF%20%7C%20KMeans-lightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
