@@ -137,10 +137,6 @@ Want to extend this?
 
 ---
 
-Let me know when you're ready to:
-- Add `.gitignore`  
-- Create `requirements.txt`  
-- Or push this updated `README.md` to GitHub!
 
 
 
