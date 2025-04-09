@@ -102,20 +102,6 @@ python DataWrangling.py
 yaml
 ---
 
-### 📌 Want to Add a `requirements.txt` too?
-
-If yes, here’s a quick version you can drop into your project:
-
-```txt
-pandas
-nltk
-textblob
-scikit-learn
-matplotlib
-seaborn
-
-
-
 ---
 ## 📌 Author
 
