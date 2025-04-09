@@ -91,10 +91,12 @@ If you don’t have a requirements.txt, install manually:
 
 pip install pandas nltk textblob scikit-learn matplotlib seaborn
 python -m textblob.download_corpora
+
 Or use the requirements file (if you added it):
 
 
 pip install -r requirements.txt
+
 Run the main pipeline
 
 
