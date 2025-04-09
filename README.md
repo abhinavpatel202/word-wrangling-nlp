@@ -90,5 +90,19 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 
 **Abhinav Patel**  
 Data Analyst | NLP Enthusiast  
-📫 [Your LinkedIn or GitHub URL here]
+📫 https://www.linkedin.com/in/patel-abhinav-ms/
+
+
+
+
+
+
+## 🧠 Bonus Ideas
+
+Want to extend this?
+
+- Add Named Entity Recognition (NER) with `spaCy`  
+- Use `LDA` or `BERTopic` for better topic modeling  
+- Build an interactive dashboard with `Streamlit`
+
 
