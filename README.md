@@ -9,6 +9,11 @@
 
 A full-stack NLP pipeline built to preprocess, analyze, and extract insights from messy, user-generated reviews. This tool uses the **Yelp Open Dataset** to simulate real-world data challenges and demonstrates scalable techniques in text cleaning, keyword extraction, sentiment analysis, and clustering.
 
+## 🌐 Live Demo
+
+👉 [Click here to try the dashboard](https://word-wrangling-nlp-x4ajpzu3fqz2qqbkynmrjw.streamlit.app/)
+
+
 ---
 
 ## 📦 Features
