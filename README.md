@@ -76,6 +76,18 @@ git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
 cd word-wrangling-nlp
 
 
+#2. Download the Yelp Open Dataset
+Visit the official Yelp dataset page:
+👉 https://www.yelp.com/dataset
+
+Download and extract the .tar file
+
+Place yelp_academic_dataset_review.json into the project folder
+
+3. Install required dependencies
+If you don’t have a requirements.txt, install manually:
+
+
 
 
 
