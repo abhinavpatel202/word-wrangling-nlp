@@ -69,15 +69,55 @@ A full-stack NLP pipeline built to preprocess, analyze, and extract insights fro
 
 ## 🚀 Getting Started
 
-1. Clone this repo
-2. Download and extract the Yelp dataset from [here](https://www.yelp.com/dataset)
-3. Install dependencies:
+1. **Clone this repository**
+
    ```bash
-   pip install -r requirements.txt
-   python -m textblob.download_corpora
-   4. Run the main script:
-   ```bash
-   python DataWrangling.py
+   git clone https://github.com/abhinavpatel202/word-wrangling-nlp.git
+   cd word-wrangling-nlp
+
+Download the Yelp Open Dataset
+
+Visit the official Yelp dataset page:
+👉 https://www.yelp.com/dataset
+
+Download and extract the .tar file
+
+Place yelp_academic_dataset_review.json into the project folder
+
+Install required dependencies
+
+If you don’t have a requirements.txt, install manually:
+
+bash
+Copy code
+pip install pandas nltk textblob scikit-learn matplotlib seaborn
+python -m textblob.download_corpora
+Or use the requirements file (if you added it):
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the main pipeline
+
+bash
+Copy code
+python DataWrangling.py
+yaml
+Copy code
+
+---
+
+### 📌 Want to Add a `requirements.txt` too?
+
+If yes, here’s a quick version you can drop into your project:
+
+```txt
+pandas
+nltk
+textblob
+scikit-learn
+matplotlib
+seaborn
 
 
 
